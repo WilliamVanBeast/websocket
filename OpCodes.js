@@ -1,0 +1,13 @@
+module.exports = {
+  DISCONNECTED: 6969,
+  ADMIN_COMMAND: -1337,
+  
+  INVALID: 69420,
+  
+  ID: -1,
+  CONNECT: 0,
+  MESSAGE_SEND: 1,
+  MESSAGE_RECEIVE: 2,
+  
+  PING: 90
+}
